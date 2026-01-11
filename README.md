@@ -44,4 +44,4 @@ This is a static UI clone and does not include real search functionality.
 ---
 
 ## 👩‍💻 Author
-Created by [Your Name]
+Created by Shree Vishali K
