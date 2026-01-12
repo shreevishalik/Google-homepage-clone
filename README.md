@@ -1,9 +1,20 @@
+## 📜 Disclaimer
+
+This project is a **UI clone of the Google homepage**, created **strictly for educational and learning purposes**.
+
+All trademarks, logos, and brand names belong to their respective owners.  
+This project is **not affiliated with or endorsed by Google**.
+
 # Google Homepage Clone 🌐
 
 A responsive UI clone of the Google homepage built using HTML and Tailwind CSS.  
 This project is created purely for learning and frontend practice.
 
 ---
+
+## 🚀 Live Demo
+
+👉 [View the Live Website](https://google-homepage-clone-svk.netlify.app/)
 
 ## ✨ Features
 - Google-style homepage layout
